@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRrY66Kdr7wVHeTOxpKIxAhnFcGWMfNDr+zyNh9GpOHjNmlXeXAjztfTV+kAdi0Y3DZnU3Tw1dzV+H6b1oDE6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laksh\\source\\repos\\PlattsAPI\\PlattsAPI\\PlattsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laksh\\.nuget\\packages\\awssdk.core\\3.7.0.34\\awssdk.core.3.7.0.34.nupkg.sha512",
+    "C:\\Users\\laksh\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.33\\awssdk.dynamodbv2.3.7.0.33.nupkg.sha512",
+    "C:\\Users\\laksh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
